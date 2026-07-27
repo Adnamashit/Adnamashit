@@ -37,9 +37,3 @@ Gosto de aprender novas tecnologias, transformar ideias em projetos e explorar a
 
 </p>
 
----
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnamashit&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
