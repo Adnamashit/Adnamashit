@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Amanda Ferreira Duarte</h1>
 
-<!--
-**Adnamashit/Adnamashit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de Engenharia da Computação<br>
+  Pesquisadora em Inteligência Artificial
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Deep Learning • Computer Vision • Processamento de Sinais
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/amanda-ferreira-duarte">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  <a href="https://www.instagram.com/adnamashit">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  <a href="https://lattes.cnpq.br/8764497220948330">
+    <img src="https://img.shields.io/badge/Lattes-00599C?style=flat"/>
+  </a>
+</p>
+
+---
+
+## Sobre mim
+
+Sou estudante de **Engenharia da Computação** e bolsista de Iniciação Científica (CNPq), atuando no projeto **Hydrone**, onde desenvolvo pesquisas em Inteligência Artificial, Deep Learning, Processamento de Imagens e Processamento de Sinais.
+
+Gosto de aprender novas tecnologias, transformar ideias em projetos e explorar a interseção entre pesquisa, matemática e desenvolvimento de software.
+
+---
+
+## Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,java,git,github,vscode,linux,opencv"/>
+
+</p>
+
+---
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnamashit&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
