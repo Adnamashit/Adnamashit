@@ -1,7 +1,7 @@
 <h1 align="center">Amanda Ferreira Duarte</h1>
 
 <p align="center">
-  Estudante de Engenharia da Computação<br>
+  Graduanda em Engenharia de Computação<br>
   Pesquisadora em Inteligência Artificial
 </p>
 
