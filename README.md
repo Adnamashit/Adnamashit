@@ -12,10 +12,13 @@
 <p align="center">
   <a href="mailto:amanda.ferr.duarte@gmail.com">
   <img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white"/>
+    </a>
   <a href="https://www.linkedin.com/in/amanda-ferreira-duarte">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+    </a>
   <a href="https://www.instagram.com/adnamashit">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+    </a>
   <a href="https://lattes.cnpq.br/8764497220948330">
     <img src="https://img.shields.io/badge/Lattes-00599C?style=flat"/>
   </a>
